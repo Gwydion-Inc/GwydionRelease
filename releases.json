@@ -2,8 +2,12 @@
 	"releases": {
 		"steamVR": {
 			"latest": {
-				"version": "2018.5.9",
-				"link": "https://cdn.arthea.io/releases/steamVR/2018.5.9.zip"
+				"version": "2018.5.10",
+				"link": "https://cdn.arthea.io/releases/steamVR/2018.5.10.zip"
+			},
+			"2018.5.10": {
+				"version": "2018.5.10",
+				"link": "https://cdn.arthea.io/releases/steamVR/2018.5.10.zip"
 			},
 			"2018.5.9": {
 				"version": "2018.5.9",
@@ -68,8 +72,12 @@
 		},
 		"oculus": {
 			"latest": {
-				"version": "2018.5.9",
-				"link": "https://cdn.arthea.io/releases/oculus/2018.5.9.zip"
+				"version": "2018.5.10",
+				"link": "https://cdn.arthea.io/releases/oculus/2018.5.10.zip"
+			},
+			"2018.5.10": {
+				"version": "2018.5.10",
+				"link": "https://cdn.arthea.io/releases/oculus/2018.5.10.zip"
 			},
 			"2018.5.9": {
 				"version": "2018.5.9",
