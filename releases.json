@@ -2,8 +2,12 @@
 	"releases": {
 		"steamVR": {
 			"latest": {
-				"version": "2018.5.13",
-				"link": "https://cdn.arthea.io/releases/steamVR/2018.5.13.zip"
+				"version": "2018.5.14",
+				"link": "https://cdn.arthea.io/releases/steamVR/2018.5.14.zip"
+			},
+			"2018.5.14": {
+				"version": "2018.5.14",
+				"link": "https://cdn.arthea.io/releases/steamVR/2018.5.14.zip"
 			},
 			"2018.5.13": {
 				"version": "2018.5.13",
@@ -84,8 +88,12 @@
 		},
 		"oculus": {
 			"latest": {
-				"version": "2018.5.13",
-				"link": "https://cdn.arthea.io/releases/oculus/2018.5.13.zip"
+				"version": "2018.5.14",
+				"link": "https://cdn.arthea.io/releases/oculus/2018.5.14.zip"
+			},
+			"2018.5.14": {
+				"version": "2018.5.14",
+				"link": "https://cdn.arthea.io/releases/oculus/2018.5.14.zip"
 			},
 			"2018.5.13": {
 				"version": "2018.5.13",
