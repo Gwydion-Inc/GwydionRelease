@@ -2,12 +2,8 @@
 	"releases": {
 		"steamVR": {
 			"latest": {
-				"version": "2019.0.1",
-				"link": "https://cdn.arthea.io/releases/steamVR/2019.0.1.zip"
-			},
-			"2019.0.1": {
-				"version": "2019.0.1",
-				"link": "https://cdn.arthea.io/releases/steamVR/2019.0.1.zip"
+				"version": "2019.0.0",
+				"link": "https://cdn.arthea.io/releases/steamVR/2019.0.0.zip"
 			},
 			"2019.0.0": {
 				"version": "2019.0.0",
